@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ConstraintLayout1</string>
+    <string name="ShowImage">TODO</string>
+    <string name="Singapore">Though physically small, Singapore is an economic giant. It has been Southeast Asia\'s most modern city for over a century. The city blends Malay, Chinese, Arab, Indian and English cultures and religions. Its unique ethnic tapestry affords visitors a wide array of sightseeing and culinary opportunities from which to choose. A full calendar of traditional festivals and holidays celebrated throughout the year adds to its cultural appeal</string>
+    <string name="Star">TODO</string>
+    <string name="save">SAVE</string>
+    <string name="discard">DISCARD</string>
+    <string name="settings">Settings</string>
+    <string name="detail">f/4 ABCD 200</string>
+    <string name="f_4_abcd_200">f/4 ABCD 200</string>
+    <string name="camera">Camera</string>
+    <string name="Camera">240px esxd se</string>
+</resources>
